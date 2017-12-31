@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astro.BusinessObjects", "Astro.BusinessObjects\Astro.BusinessObjects.csproj", "{43866239-8D13-4D04-8A28-E3EF02BE70CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astro.InterfaceServices", "Astro.InterfaceServices\Astro.InterfaceServices.csproj", "{A424A01E-E56E-42D4-87FA-0C45BCC3036E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astro.ViewModels", "Astro.ViewModels\Astro.ViewModels.csproj", "{7841FDCF-D237-466F-B5F7-5DF36B7725F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astro.API", "Astro.API\Astro.API.csproj", "{1062AB79-3CEB-4A27-8660-9FF1CB420378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astro.BusinessEntities", "Astro.BusinessEntities\Astro.BusinessEntities.csproj", "{270DBFD1-D985-4ED7-A165-F48C988B46E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astro.Services", "Astro.Services\Astro.Services.csproj", "{CE3257FB-F7F4-4324-B969-EB762B683B77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43866239-8D13-4D04-8A28-E3EF02BE70CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43866239-8D13-4D04-8A28-E3EF02BE70CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43866239-8D13-4D04-8A28-E3EF02BE70CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43866239-8D13-4D04-8A28-E3EF02BE70CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A424A01E-E56E-42D4-87FA-0C45BCC3036E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A424A01E-E56E-42D4-87FA-0C45BCC3036E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A424A01E-E56E-42D4-87FA-0C45BCC3036E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A424A01E-E56E-42D4-87FA-0C45BCC3036E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7841FDCF-D237-466F-B5F7-5DF36B7725F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7841FDCF-D237-466F-B5F7-5DF36B7725F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7841FDCF-D237-466F-B5F7-5DF36B7725F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7841FDCF-D237-466F-B5F7-5DF36B7725F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1062AB79-3CEB-4A27-8660-9FF1CB420378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1062AB79-3CEB-4A27-8660-9FF1CB420378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1062AB79-3CEB-4A27-8660-9FF1CB420378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1062AB79-3CEB-4A27-8660-9FF1CB420378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270DBFD1-D985-4ED7-A165-F48C988B46E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270DBFD1-D985-4ED7-A165-F48C988B46E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270DBFD1-D985-4ED7-A165-F48C988B46E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270DBFD1-D985-4ED7-A165-F48C988B46E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3257FB-F7F4-4324-B969-EB762B683B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3257FB-F7F4-4324-B969-EB762B683B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3257FB-F7F4-4324-B969-EB762B683B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3257FB-F7F4-4324-B969-EB762B683B77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80093272-F0A3-40A5-AC59-A6AA0F598C1F}
+	EndGlobalSection
+EndGlobal
